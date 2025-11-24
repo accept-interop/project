@@ -1,0 +1,13 @@
+{
+    "name": "accept-interop/project",
+    "description": "The accept-interop project.",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Paul M. Jones",
+            "email": "pmjones@pmjones.io"
+        }
+    ],
+    "require": {}
+}
